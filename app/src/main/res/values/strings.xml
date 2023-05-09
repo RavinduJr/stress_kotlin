@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Foreground</string>
+    <string name="notification_message">Hey Man</string>
+    <string name="notification_title">Hey</string>
+    <string name="ticker_text">Foreground</string>
+    <string name="text1">What\'s on your Mind?</string>
+    <string name="share">Share</string>
+    <string name="editTextHint">Enter Value</string>
+    <string name="exampleText">You seems to be happy between 9.00 - 11.00 am today</string>
+<string name="contentDescription">Image</string>
+</resources>
